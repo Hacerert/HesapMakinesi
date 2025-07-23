@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.exe
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.deps.json
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.runtimeconfig.json
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.dll
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.pdb
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.AssemblyInfo.cs
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.dll
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\refint\HesapMakinesi.dll
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.pdb
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.genruntimeconfig.cache
+C:\Users\PC\Desktop\stajOdevler\HesapMakinesi\HesapMakinesi\obj\Debug\net8.0\ref\HesapMakinesi.dll
